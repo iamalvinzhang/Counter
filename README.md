@@ -1,2 +1,2 @@
 # Counter
-Head Tails Stimulator
+Simple Head Tails Stimulator
